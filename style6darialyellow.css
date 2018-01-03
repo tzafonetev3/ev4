@@ -1,7 +1,7 @@
 ﻿body{direction: rtl; margin:0;padding:0;background-color:#f1e9f3;}
 img {border:0px;}
 .feed-container{font-size: 18px;	border: 1px solid #CCC;	font-family: Arial, Helvetica, sans-serif;}
-.feed-container .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#9257a6;}
+.feed-container .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#009999;}
 .feed-container .footer{	margin: 0px;	padding: 5px 5px 5px 5px;	color: #fff;	background-color: #FFFF66;}
 .feed-container .header .title{margin:0;padding:0;font-weight:bold;}
 .feed-container .header a:link{color:#fff;text-decoration:none;}
