@@ -11,7 +11,7 @@ img {border:0px;}
 .feed-container .content{margin:0px;padding:0 3px;}
 .feed-container .content .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #B9B90C;}
 .feed-container .content .item .title{margin:1px 0 1px 3px;padding:1px 2px 1px 3px;color:#000000;font-weight:bold;}
-.feed-container .content .item .title a:link{color:##000000;text-decoration:none;}
+.feed-container .content .item .title a:link{color:#000000;text-decoration:none;}
 .feed-container .content .item .title a:visited{color:#fff;text-decoration:none;}
 .feed-container .content .item .title a:hover{color:#fff;text-decoration:underline;}
 .feed-container .content .item .title a:active{color:#fff;text-decoration:none;}
