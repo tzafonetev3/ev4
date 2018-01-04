@@ -15,6 +15,6 @@ img {border:0px;}
 .feed-container .content .item .title a:visited{color:#fff;text-decoration:none;}
 .feed-container .content .item .title a:hover{color:#fff;text-decoration:underline;}
 .feed-container .content .item .title a:active{color:#fff;text-decoration:none;}
-.feed-container .content .item .description{margin:0 0 0 3px;padding:0 2px 0 3px;color:#fff;}
+.feed-container .content .item .description{margin:0 0 0 3px;padding:0 2px 0 3px;color:#000000;}
 .feed-container .content .item .description a{text-decoration:none;color:#666;}
 .feed-container .content .item .description a:hover{text-decoration:underline;color:#fff;}
