@@ -4,7 +4,7 @@ img {border:0px;}
 .feed-container .header{padding:5px 5px 5px 5px;font-size:14px;text-align:center;border-bottom:1px solid #CCFF33;}
 .feed-container .footer{padding:2px 5px 2px;text-align:center;border-top:1px solid #CCC;}
 .feed-container .header .title{margin:0;padding:0;font-weight:bold;}
-.feed-container .header a:link{text-decoration:none;color:#fff}
+.feed-container .header a:link{text-decoration:none;color:#000000}
 .feed-container .header a:visited{text-decoration:none;color:#fff}
 .feed-container .header a:hover{text-decoration:underline;color:#fff}
 .feed-container .header a:active{text-decoration:none;color:#fff}
